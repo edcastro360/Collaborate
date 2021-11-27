@@ -1,4 +1,4 @@
-<p align="center"><img width="200px" src="https://i.imgur.com/AdJMOJr.png"/></p>
+<p align="center"><img width="200px" src="https://i.imgur.com/cRgLR0s.png"/></p>
 <br>
 
 ## A aplicação do FRONT-END utiliza:
