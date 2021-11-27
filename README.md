@@ -112,4 +112,4 @@
 
 ## <h2 align="center"> Conheça mais sobre o projeto!</h2>
 <p align="center">Acesse o site e conheça mais sobre o nosso projeto! <strong>Clique no ícone abaixo:</strong></p>
-<p align="center"><a href="https://herokuapp.com/"><img width="90px" src="https://i.imgur.com/cRgLR0s.png"></p>
+<p align="center"><a href="https://herokuapp.com/"><img width="90px" src="https://i.imgur.com/ci0jctf.jpg"></p>
