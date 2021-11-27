@@ -1,4 +1,4 @@
-<p align="center"><img width="200px" src="https://i.imgur.com/cRgLR0s.png"/></p>
+<p align="center"><img width="200px" src="https://i.imgur.com/ci0jctf.jpg"/></p>
 <br>
 
 ## A aplicação do FRONT-END utiliza:
@@ -6,12 +6,6 @@
 <ul>
   <li>Angular (Versão 11.2.4)</li>
   <p>Sua documentação e feature encontra-se disponível, <a href="https://angular.io/">clicando aqui!</a></p>
-</ul>
-
-## <h3>Documentação:</h3>
-<ul>
-  <li><a href="https://github.com/igorMilhomens/educAcao">BACK-END</a></li>
-  <li><a href="https://github.com/Gustavo-Esteban/educAcao-FrontEnd">FRONT-END</li>
 </ul>
 
 ## <h2> Desenvolvedores participantes da EducAção: </h2>
